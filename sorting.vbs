@@ -1,3 +1,4 @@
+'To sort excel sheet by sheet name
 'Alt-F11 To enter developer mode
 'Insert - Module - Paste Code
 'Exit Developer mode
